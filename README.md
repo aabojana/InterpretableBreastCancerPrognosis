@@ -1,2 +1,2 @@
 # InterpretableBreastCancerPrognosis
-Procedures for interpretable and reliable analysis of 5-years survival and recurrence of disease for breast cancer patients. 
+Procedures for generating interpretable predictions for five-year survival and disease recurrence in breast cancer patients, improved by reliability estimates.
