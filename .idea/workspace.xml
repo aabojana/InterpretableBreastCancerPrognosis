@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="325e3a72-78df-4d45-a92f-758424762c4a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelsEvaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="761" column="47" lean-forward="true" selection-start-line="761" selection-start-column="47" selection-end-line="761" selection-end-column="47" />
+              <folding>
+                <element signature="e#18#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReliabilityEstimation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestSurvivability.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="162" column="4" selection-start-line="162" selection-start-column="4" selection-end-line="162" selection-end-column="107" />
+              <folding>
+                <element signature="e#18#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestRecurrence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3067">
+              <caret line="323" column="37" lean-forward="true" selection-start-line="323" selection-start-column="37" selection-end-line="323" selection-end-column="37" />
+              <folding>
+                <element signature="e#18#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cpu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WrapperSurvival.py" />
+        <option value="$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/ITMO_FS/filters/multivariate/MultivariateFilter.py" />
+        <option value="$PROJECT_DIR$/Survival.py" />
+        <option value="$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/mifs/mifs.py" />
+        <option value="$PROJECT_DIR$/MRMR.py" />
+        <option value="$PROJECT_DIR$/ReliabilityEstimation.py" />
+        <option value="$PROJECT_DIR$/ModelsEvaluation.py" />
+        <option value="$PROJECT_DIR$/TestSurvivability" />
+        <option value="$PROJECT_DIR$/TestRecurrence.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1630" />
+    <option name="height" value="1715" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BreastCancer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BreastCancer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BreastCancer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dataset" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Bojana\Doktorske studije\FINK_disertacija\Теза\BreastCancer\Dataset" />
+      <recent name="C:\Users\Bojana\PycharmProjects\BreastCancer\R mRMR" />
+      <recent name="C:\Users\Bojana\PycharmProjects\BreastCancer\Dataset" />
+      <recent name="C:\Users\Bojana\PycharmProjects\BreastCancer\R_RiskAssessmentPlot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TestSurvivability">
+    <configuration name="ModelsEvaluation" type="PythonConfigurationType" factoryName="Python">
+      <module name="BreastCancer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModelsEvaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Survival" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BreastCancer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bojana\PycharmProjects\BreastCancer\MRMR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRecurrence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BreastCancer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestRecurrence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSurvivability" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BreastCancer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Bojana\Doktorske studije\FINK_disertacija\Теза\BreastCancer\TestSurvivability.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WrapperSurvival" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BreastCancer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bojana\PycharmProjects\BreastCancer\ModelsEvaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ModelsEvaluation" />
+      <item itemvalue="Python.Survival" />
+      <item itemvalue="Python.WrapperSurvival" />
+      <item itemvalue="Python.TestSurvivability" />
+      <item itemvalue="Python.TestRecurrence" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TestSurvivability" />
+        <item itemvalue="Python.TestRecurrence" />
+        <item itemvalue="Python.WrapperSurvival" />
+        <item itemvalue="Python.Survival" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="325e3a72-78df-4d45-a92f-758424762c4a" name="Default Changelist" comment="" />
+      <created>1582900311528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582900311528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16759333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6799047" visible="true" weight="0.35992908" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39539006" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3280142" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2819149" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3200953" side_tool="true" weight="0.44680852" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3280142" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/svm/base.py" />
+    <entry file="file://$PROJECT_DIR$/R_RiskAssessmentPlot/data/data_risk.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_RiskAssessmentPlot/man/raplot.Rd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/model_selection/_split.py" />
+    <entry file="file://$PROJECT_DIR$/R_RiskAssessmentPlot/man/statistics.raplot.Rd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/ReliefF/ReliefF.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/joblib/_parallel_backends.py" />
+    <entry file="file://$PROJECT_DIR$/Dataset/maligni_karcinom dojkeBinarizedSurvival_NoMissing_OnlyCarcinoma_phd.csv" />
+    <entry file="file://$PROJECT_DIR$/Dataset/relapse.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/model_selection/_validation.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/joblib/memory.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/ITMO_FS/filters/multivariate/MultivariateFilter.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/ITMO_FS/filters/multivariate/MrmrDiscreteFilter.py" />
+    <entry file="file://$PROJECT_DIR$/R_mRMR/R/mRMRe.Filter.R" />
+    <entry file="file://$PROJECT_DIR$/R_mRMR/R/mRMRe.Data.R" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/bottleneck/_version.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/externals/joblib/numpy_pickle.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/joblib/parallel.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/externals/joblib/__init__.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/mifs/mifs.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/codecs.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/functools.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/utils/metaestimators.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/pipeline.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/utils/validation.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/base.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/feature_selection/_base.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/numpy/core/arrayprint.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/numpy/core/_asarray.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/warnings.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/scipy/sparse/base.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/inspect.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/scipy/stats/stats.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/neighbors/_base.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/feature_selection/_rfe.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/sklearn/model_selection/_search.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/rpy2/robjects/functions.py" />
+    <entry file="file://$PROJECT_DIR$/../Rad/ModelsEvaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="809" selection-start-line="809" selection-end-line="811" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/BreastCancer/Lib/site-packages/imblearn/pipeline.py" />
+    <entry file="file://$PROJECT_DIR$/Dataset/survival_minor class is event.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MRMR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/R_RiskAssessmentPlot/R/rap.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="469" column="50" selection-start-line="469" selection-start-column="50" selection-end-line="469" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReliabilityEstimation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filename_output.joblib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelsEvaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="761" column="47" lean-forward="true" selection-start-line="761" selection-start-column="47" selection-end-line="761" selection-end-column="47" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSurvivability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="162" column="4" selection-start-line="162" selection-start-column="4" selection-end-line="162" selection-end-column="107" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Set the PATH of the file">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestRecurrence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3067">
+          <caret line="323" column="37" lean-forward="true" selection-start-line="323" selection-start-column="37" selection-end-line="323" selection-end-column="37" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
